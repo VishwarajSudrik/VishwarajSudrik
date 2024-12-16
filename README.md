@@ -6,11 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nagesh-mane/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mane46740@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishwaraj-sudrik/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmsudrik@gmail.com)
 
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=nagesh5454" alt="Nagesh Mane"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=VishwarajSudrik" alt="VishwarajSudrik"/></p>
 
 <img align="right" height="350px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
 
@@ -29,7 +29,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vishwaraj-sudrik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagesh-mane/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishwaraj-sudrik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishwaraj-sudrik/" height="30" width="40" /></a>
 </p>
 <!--
 <h3 align="left">Languages and Tools:</h3>
